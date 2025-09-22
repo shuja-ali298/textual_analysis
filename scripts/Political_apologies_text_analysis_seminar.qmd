@@ -1,6 +1,6 @@
 ---
 title: "💻 LSE DS202W 2024: Week 11 - Lab"
-author: "MY NAME (MY CANDIDATE NUMBER)"
+author: "Shuja Ali"
 date: 25 March 2024
 format: html
 self-contained: true
