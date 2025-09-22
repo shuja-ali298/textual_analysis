@@ -109,15 +109,13 @@ df_pac %>%
 
 **🗣 CLASSROOM DISCUSSION**
 
-Your class teacher will invite you to discuss the following questions with the rest of the class:
-
 - If our focus today wasn't on the text describing the apologies, what other questions could we ask to this dataset?
 
 🏡 **TAKE-HOME ACTIVITY:** Calculate the dataset's most common Country (Sender) and Country (Receiver) pairs.
 
 ## Part II - Summarising text data (15 min)
 
-Go over the action points below and stop when your class teacher invites you to discuss something with the rest of the class. The code below is similar to the one used in the Week 10 lecture.
+Go over the action points below and stop when your class teacher invites you to discuss something with the rest of the class.
 
 ### 🎯 ACTION POINTS
 
