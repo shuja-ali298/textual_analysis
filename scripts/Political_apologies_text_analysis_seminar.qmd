@@ -455,15 +455,3 @@ textplot_wordcloud(tstat_key, comparison=TRUE, min_count=2)
 ```
 
 --
-
-🗣️ **CLASSROOM DISCUSSIONS**
-
-This is your last DS202W lab! Take some time to reflect on how the text mining application we did today encapsulates many of the main concepts we have learned in this course.
-
-Before you say goodbye to your classmates and teacher, discuss the following questions:
-
-- Why do you think we deliberately showed you new dimensionality reduction (LSA) and clustering techniques (LDA) today? Why not just stick to PCA and k-means?
-- Why do you think there are so many clustering techniques out there? See, for example, [this table](https://scikit-learn.org/stable/modules/clustering.html) from the Python library, scikit-learn.
-- Would you use any of the techniques we learned today in your own research? Why or why not?
-
-
